@@ -987,7 +987,7 @@ Eksplisiittisesti auki kirjoitettuna metodin <code>show</code> suorituksen yhtey
 render :show
 ```
 
-Näkymätemplaten views/breweries/show.html.erb koodi on seuraavassa:
+Näkymätemplaten app/views/breweries/show.html.erb koodi on seuraavassa:
 
 ```
 <p style="color: green"><%= notice %></p>
